@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Linda Asante 👋
+## ✨About me
 <!--
 **Korantema-labs/Korantema-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
