@@ -1,6 +1,6 @@
 ## Hi, I'm Linda Asante 👋
 ### ✨About me
-I bring a professional background in banking, hospitality, and business operations. Industries where trust, controlled access, and risk awareness are essential. After working closely with sensitive data and operational processes, have sparked my interest in how risk evolve in today’s digital systems.
+I bring a professional background in banking, hospitality, and business operations. Industries where trust, controlled access, and risk awareness are essential. After working closely with sensitive data and operational processes, my interest have sparked in how risk evolve in today’s digital systems.
 I am currently developing practical cybersecurity skills through labs, log analysis and defensive security practice. This Github reflects my structured learning journey, experiments, and growing approach to practical security thinking.
 <!--
 **Korantema-labs/Korantema-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
